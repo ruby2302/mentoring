@@ -1,0 +1,53 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/rel21/Documents/IntelliJ-workspace/Sky_Repos/mentoring/target/scala-3.3.6/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleEncodedString$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncodedStringTrait$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decoder$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComplexEncodedString$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/rel21/Documents/IntelliJ-workspace/Sky_Repos/mentoring/target/scala-3.3.6/classes.bak[0m

@@ -1,0 +1,7 @@
+[error] /Users/rel21/Documents/IntelliJ-workspace/Sky_Repos/mentoring/project/Dependencies.scala:3:35: value %% is not a member of String
+[error]   val scalaTest = "org.scalatest" %% "scalatest" % "3.2.16" % Test
+[error]                                   ^
+[error] /Users/rel21/Documents/IntelliJ-workspace/Sky_Repos/mentoring/project/Dependencies.scala:3:63: not found: value Test
+[error]   val scalaTest = "org.scalatest" %% "scalatest" % "3.2.16" % Test
+[error]                                                               ^
+[error] two errors found

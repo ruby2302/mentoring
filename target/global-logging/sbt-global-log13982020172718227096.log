@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly *EncodedStringTraitSpec, Some(58fdf120-edf5-4d70-8f72-9b086cc895b8), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /Users/rel21/Documents/IntelliJ-workspace/Sky_Repos/mentoring/target/scala-3.3.6/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /Users/rel21/Documents/IntelliJ-workspace/Sky_Repos/mentoring/target/scala-3.3.6/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEncodedStringTraitSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEncodedStringTrait[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should decode a simple string correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should decode a string with multiple digits correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should decode a nested string correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should decode a string where the number is more than one digit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 55 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 22 Aug 2025, 10:44:29[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

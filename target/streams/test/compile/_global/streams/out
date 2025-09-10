@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /Users/rel21/Documents/IntelliJ-workspace/Sky_Repos/mentoring/src/test/scala/DecoderSpec.scala:1:11 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m1 |[0m[33mimport[0m org.scalatest.flatspec.AnyFlatSpec[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       value scalatest is not a member of org[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /Users/rel21/Documents/IntelliJ-workspace/Sky_Repos/mentoring/src/test/scala/DecoderSpec.scala:5:12 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m  [31m"Decoder"[0m should [31m"decode a simple string"[0m in {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m  ^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m  value should is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
