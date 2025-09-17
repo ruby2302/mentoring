@@ -6,6 +6,4 @@ lazy val root = (project in file("."))
   .settings(
     name := "mentoring",
     libraryDependencies += Dependencies.scalaTest
-
   )
-
