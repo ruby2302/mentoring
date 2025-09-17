@@ -5,10 +5,41 @@ pipeline {
         }
     }
     stages {
-        stage('Check SBT version') {
+        stage('Lint & Static Analysis') {
             steps {
-                sh 'sbt sbtVersion'
+                sh 'sbt checkFmt'
             }
+        }
+    //    stage('Build') {
+    //        steps {
+    //            sh 'sbt clean compile package'
+    //        }
+    //    }
+    //    stage('Unit Tests') {
+    //        steps {
+    //            sh 'sbt test'
+    //        }
+    //    }
+    //    stage('Integration Tests') {
+    //        steps {
+    //            sh 'sbt it:test'
+    //        }
+    //    }
+    //    stage('Build Docker Image') {
+    //        steps {
+    //            sh 'docker build -t my-app:${GIT_COMMIT} .'
+    //        }
+    //    }
+    //    stage('Push Artifacts') {
+    //        steps {
+    //            sh 'sbt publish'
+    //            sh 'docker push my-app:${GIT_COMMIT}'
+    //        }
+    //    }
+    }
+    post {
+        always {
+            junit '**/target/test-reports/*.xml'
         }
     }
 }

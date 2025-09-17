@@ -33,8 +33,4 @@ class EncodedStringTraitSpec extends AnyFlatSpec {
     assert(EncodedStringTrait.parse(input).decode == expected)
   }
 
-
-
-
-
 }

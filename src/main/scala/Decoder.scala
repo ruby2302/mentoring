@@ -25,24 +25,24 @@ Examples
 
 Bonus (Optional):
 Handle cases where the number is more than one digit (e.g., 12A -> AAAAAAAAAAAA).
-*/
-
+ */
 
 object Decoder {
 
   @tailrec
   def recursiveDecode(inputString: String): String = {
 
-     def decode(encoded: String): String = {
-       val multiplier = encoded.filter(_.isDigit).toInt
-       val pattern = encoded.filter(_.isLetter)
-       pattern * multiplier
-     }
+    def decode(encoded: String): String = {
+      val multiplier = encoded.filter(_.isDigit).toInt
+      val pattern = encoded.filter(_.isLetter)
+      pattern * multiplier
+    }
 
-     if (!inputString.contains('(')) decode(inputString) 
-     else
+    if (!inputString.contains('(')) decode(inputString)
+    else {
       // find innermost pattern
       val (prefix, innermost) = inputString.splitAt(inputString.lastIndexOf('('))
       recursiveDecode(prefix + decode(innermost))
+    }
   }
 }
