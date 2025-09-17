@@ -1,0 +1,17 @@
+# Misc
+.DS_Store
+
+# Scala
+target
+
+# IDE and Build Tools
+.idea
+*.iml
+.bsp
+.vscode
+.bloop
+.metals
+metals.sbt
+.direnv
+.envrc
+.scala-build
